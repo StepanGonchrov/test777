@@ -1,0 +1,19 @@
+h1,h2{
+    text-align: center;
+}
+.v1{
+    color: rgb(243, 36, 36);
+}
+.c3{
+    color: aqua;
+}
+.m1{
+    color: rgb(253, 59, 59);
+}
+pre{
+    background-color: grey;
+}
+span{
+    background-color: grey;
+}
+
